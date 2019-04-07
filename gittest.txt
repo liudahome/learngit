@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 see whether origin is changed
 
 create a new branch is quick
+
+Creating a new branch feature.
