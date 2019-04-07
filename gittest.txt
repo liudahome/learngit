@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 see whether origin is changed
 
 create a new branch is quick
+
+create a ner branch is quick and simple
