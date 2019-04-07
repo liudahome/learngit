@@ -3,3 +3,5 @@ Git is free software.  hello£¬ i do second change.
 do change
 i do third change.
 Git has a mutable index called stage.
+
+see whether origin is changed
