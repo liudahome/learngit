@@ -8,9 +8,8 @@ see whether origin is changed
 
 create a new branch is quick
 
-Creating a new branch  is quick and simple
-
-creating new branch dev
+create a ner branch is quick and simple
 
 add new fix
 
+test stash
